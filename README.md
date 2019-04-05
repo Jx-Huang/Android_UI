@@ -232,15 +232,15 @@ final AlertDialog.Builder builder = new AlertDialog.Builder(this);
 ```
 运行效果：  
 
-菜单选项：
+菜单选项：  
 ![x1](result/x1.png)  
 点击字体大小：  
 ![x2](result/x2.png)  
-点击16号字
+点击16号字：  
 ![x3](result/x3.png)  
-点击普通菜单项
+点击普通菜单项：  
 ![x4](result/x4.png)  
-点击字体颜色：选择红色
+点击字体颜色：选择红色  
 ![x5](result/x5.png)
 ##### ActionMode
 实现上下文操作模式，长按一项可以多选  
