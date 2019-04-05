@@ -68,7 +68,7 @@ final String[] picture_name = new String[]{"Cat","Dog","Elephant","Lion","Monkey
             }
         });
 ```
-效果如下：
+效果如下：  
 ![s](result/s.png)  
 
 ##### AlertDialog
@@ -142,7 +142,7 @@ final AlertDialog.Builder builder = new AlertDialog.Builder(this);
             }
         });
 ```
-运行效果：
+运行效果：  
 ![a](result/a.png)
 ##### XML定义菜单
 &emsp;&emsp;实现自定义选项菜单，有字体大小、普通菜单项、字体颜色，其中字体大小和字体颜色选项里又有子选项。  
@@ -285,5 +285,5 @@ listView.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE_MODAL);
         });
     }
 ```
-运行效果：
+运行效果：  
 ![ac](result/ac.png)
